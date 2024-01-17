@@ -11,6 +11,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
+![Alt text](<Screenshot 2024-01-17 at 12-42-00 Coffee Shop.png>)
+
 ## Plan on improving the project
 
-Add your ideas here :)
+Add more inviting fonts, images, and colors to better reflect the coffee shop's atmosphere.
