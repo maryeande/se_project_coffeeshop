@@ -15,6 +15,7 @@
   color: black;
   text-decoration: none;
   transition: 0.6s ease-in-out;
+  font-weight: 500;
 }
 
 .nav__link:hover {
